@@ -19,5 +19,5 @@ timeout:
   RedisOnlineTime: 4  #缓存的在线用户时长   单位H
 
 port:
-  server: ":8082"
+  server: ":8080"
   udp: 3001
